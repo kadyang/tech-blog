@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>google-app-script on 開特技術碎碎念</title><link>https://kadyang.github.io/tech-blog/tags/google-app-script/</link><description>Recent content in google-app-script on 開特技術碎碎念</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kadyang.github.io/tech-blog/tags/google-app-script/index.xml" rel="self" type="application/rss+xml"/><item><title>Google App Script 入門</title><link>https://kadyang.github.io/tech-blog/posts/google-app-script/hello-world-google-app-script/</link><pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate><guid>https://kadyang.github.io/tech-blog/posts/google-app-script/hello-world-google-app-script/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>不論是工作上或是個人使用，大部分的人都離不開 Google 相關服務，除了搜尋引擎以外，GMail、Google 日曆、Google 文件/試算表/表單等等，都是大家使用頻率非常高的服務。&lt;/p>
+&lt;p>這些服務通常都是獨立使用，或是限制在 Google 內建整合好的功能 (例如填寫表單會寄出 EMail)，但有時候無法滿足你想要的需求，這時候可以利用 Google App Script 來完成跨服務整合，甚至也可以整合外部的服務。&lt;/p>
+&lt;h2 id="運用場景範例">運用場景範例&lt;/h2>
+&lt;ul>
+&lt;li>針對特別重要的 Google 日曆事件，提醒時發送到 Slack，其他則保持 EMail 提醒&lt;/li>
+&lt;li>每天早上打 api 取得資料後，整理成 Google Sheet 並寄到自己的信箱&lt;/li>
+&lt;li>當有人編輯 Google Sheet 時，將修改 log 打到 Server 端留存備查&lt;/li>
+&lt;/ul></description></item></channel></rss>

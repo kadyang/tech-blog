@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ci on 開特技術碎碎念</title><link>https://kadyang.github.io/tech-blog/tags/ci/</link><description>Recent content in ci on 開特技術碎碎念</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kadyang.github.io/tech-blog/tags/ci/index.xml" rel="self" type="application/rss+xml"/><item><title>如何在 Ubuntu 上安裝 Jenkins ?</title><link>https://kadyang.github.io/tech-blog/posts/jenkins/install-jenkins-on-ubuntu/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>https://kadyang.github.io/tech-blog/posts/jenkins/install-jenkins-on-ubuntu/</guid><description>&lt;p>&lt;img src="images/jenkins/jenkins-logo-banner.png" alt="Jenkins">&lt;/p>
+&lt;p>老牌的 Jenkins 是自建 CI/CD Service 的首選，入門簡單且不需有 Container 基礎即可使用，不只是開發工程師可以用來 Build Code，只要是需要重複執行的行為都可以運用。&lt;/p>
+&lt;h2 id="運用場景範例">運用場景範例&lt;/h2>
+&lt;ul>
+&lt;li>軟體工程師
+&lt;ul>
+&lt;li>推 Code 到 Github 時自動跑 Unit Test&lt;/li>
+&lt;li>在 Github 發 PR 時自動跑整合測試&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>維運工程師
+&lt;ul>
+&lt;li>發佈程式到 10,000 台機器上&lt;/li>
+&lt;li>一鍵當個輕鬆快樂的重開機工程師 (?)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>非工程人員
+&lt;ul>
+&lt;li>定期撈取資料並產生報表寄給自己&lt;/li>
+&lt;li>每天發 Slack 提醒老闆開會 (?)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>只要是屬於重複性高的動作，都可以讓 jenkins 幫你完成 :D&lt;/p></description></item></channel></rss>
